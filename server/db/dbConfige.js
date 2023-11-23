@@ -5,7 +5,7 @@ const dbConnection= mysql2.createPool({
     user:"EvangadiForum",
     password:"a]NURFA[3-nt*Jai",
     database:"evangadiforum", 
-
+   
     connectionLimit:10
 
 });
